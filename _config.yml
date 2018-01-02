@@ -1,9 +1,9 @@
 # Site settings
 title: "Đoàn Bình và Thầy Lang"
-url-title: "Thầy Lang"
-description: "Đoàn Bình và ông Thầy Lang."
+url-title: "Thuốc Nam"
+description: "Đoàn Bình và Thuốc Nam"
 paginate: 100
-url: "http://thaylangbam.com"
+url: "http://mipateheo.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
